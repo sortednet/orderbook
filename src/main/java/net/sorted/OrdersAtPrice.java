@@ -1,4 +1,4 @@
-package westpac;
+package net.sorted;
 
 import java.util.LinkedList;
 import java.util.List;

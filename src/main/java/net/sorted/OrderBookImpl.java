@@ -1,4 +1,4 @@
-package westpac;
+package net.sorted;
 
 import java.util.HashMap;
 import java.util.List;

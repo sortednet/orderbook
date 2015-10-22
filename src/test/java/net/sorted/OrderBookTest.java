@@ -1,4 +1,4 @@
-package westpac;
+package net.sorted;
 
 import org.junit.Before;
 import org.junit.Test;
